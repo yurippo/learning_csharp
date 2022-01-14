@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComandoSwitch", "ComandoSwi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10- CalculaPoupanca", "10- CalculaPoupanca\P10- CalculaPoupanca.csproj", "{A8B731AF-DF2A-4C92-82B1-0A4C898C0E6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11- CalculaPoupanca2", "P11- CalculaPoupanca2\P11- CalculaPoupanca2.csproj", "{F17F24F1-109A-4318-BC46-741B31245FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11- CalculaPoupanca2", "P11- CalculaPoupanca2\P11- CalculaPoupanca2.csproj", "{F17F24F1-109A-4318-BC46-741B31245FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12- CalculaInvestimentoLongoPrazo", "P12- CalculaInvestimentoLongoPrazo\P12- CalculaInvestimentoLongoPrazo.csproj", "{B06F3D8C-E5FA-4EB3-9BBE-42114D827A77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{F17F24F1-109A-4318-BC46-741B31245FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17F24F1-109A-4318-BC46-741B31245FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17F24F1-109A-4318-BC46-741B31245FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06F3D8C-E5FA-4EB3-9BBE-42114D827A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06F3D8C-E5FA-4EB3-9BBE-42114D827A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06F3D8C-E5FA-4EB3-9BBE-42114D827A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06F3D8C-E5FA-4EB3-9BBE-42114D827A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
